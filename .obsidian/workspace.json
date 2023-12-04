@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/FireFox Starting Page.md",
+                "file": "1. Project/FireFox Starting Page/FireFox Starting Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/FireFox Starting Page.md",
+                "file": "1. Project/FireFox Starting Page/FireFox Starting Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/FireFox Starting Page.md",
+                "file": "1. Project/FireFox Starting Page/FireFox Starting Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/FireFox Starting Page.md",
+                "file": "1. Project/FireFox Starting Page/FireFox Starting Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/FireFox Starting Page.md",
+                "file": "1. Project/FireFox Starting Page/FireFox Starting Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/FireFox Starting Page.md"
+                "file": "1. Project/FireFox Starting Page/FireFox Starting Page.md"
               }
             }
           },
@@ -180,10 +180,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d98cf2e114b5515",
+  "active": "934d7ecd53af9e1e",
   "lastOpenFiles": [
-    "1. Project/FireFox Starting Page - drawing.md",
-    "1. Project/FireFox Starting Page.md",
+    "1. Project/FireFox Starting Page/무제 폴더",
+    "1. Project/FireFox Starting Page/2. Area",
+    "1. Project/FireFox Starting Page/1. Project",
+    "1. Project/FireFox Starting Page/FireFox Starting Page - drawing.md",
+    "1. Project/FireFox Starting Page/FireFox Starting Page.md",
+    "1. Project/FireFox Starting Page",
     "2. Area/Study English.md",
     "3. Resource/Drawing 2023-12-04 14.58.48.excalidraw.md",
     "무제 파일.md",
