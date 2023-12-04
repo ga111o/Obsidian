@@ -23,9 +23,11 @@
             "id": "791874597394f6db",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "1. Project/FireFox Starting Page - drawing.md"
+                "file": "1. Project/FireFox Starting Page.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/FireFox Starting Page - drawing.md",
+                "file": "1. Project/FireFox Starting Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/FireFox Starting Page - drawing.md",
+                "file": "1. Project/FireFox Starting Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/FireFox Starting Page - drawing.md"
+                "file": "1. Project/FireFox Starting Page.md"
               }
             }
           }
@@ -160,8 +162,8 @@
   },
   "active": "791874597394f6db",
   "lastOpenFiles": [
-    "1. Project/FireFox Starting Page.md",
     "1. Project/FireFox Starting Page - drawing.md",
+    "1. Project/FireFox Starting Page.md",
     "2. Area/Study English.md",
     "3. Resource/Drawing 2023-12-04 14.58.48.excalidraw.md",
     "무제 파일.md",
