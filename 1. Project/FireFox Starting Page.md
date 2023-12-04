@@ -10,6 +10,8 @@ backgound img:
 	- add shortcut
 - R_C | Todo List
 - L_C | webpage Shortcut
+	- github
+	- chatgot
 
 
 Feature
