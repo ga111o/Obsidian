@@ -1,10 +1,10 @@
 {
-  "editor:cycle-list-checklist": [
+  "editor:toggle-blockquote": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "C"
+      "key": "'"
     }
   ]
 }
