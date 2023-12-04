@@ -35,11 +35,9 @@
             "id": "2d98cf2e114b5515",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1. Project/FireFox Starting Page.md",
-                "mode": "source",
-                "source": false
+                "file": "1. Project/FireFox Starting Page - drawing.md"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/FireFox Starting Page.md",
+                "file": "1. Project/FireFox Starting Page - drawing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/FireFox Starting Page.md",
+                "file": "1. Project/FireFox Starting Page - drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/FireFox Starting Page.md"
+                "file": "1. Project/FireFox Starting Page - drawing.md"
               }
             }
           },
@@ -180,10 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "934d7ecd53af9e1e",
+  "active": "2d98cf2e114b5515",
   "lastOpenFiles": [
-    "1. Project/FireFox Starting Page - drawing.md",
     "1. Project/FireFox Starting Page.md",
+    "1. Project/FireFox Starting Page - drawing.md",
     "2. Area/Study English.md",
     "3. Resource/Drawing 2023-12-04 14.58.48.excalidraw.md",
     "무제 파일.md",

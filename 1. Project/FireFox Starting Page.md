@@ -1,5 +1,6 @@
 ---
-tags:
+React!: "[[FireFox Starting Page - drawing]]"
+backgound img:
 ---
 
 React!
