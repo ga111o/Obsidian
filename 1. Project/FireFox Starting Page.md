@@ -1,7 +1,6 @@
 ---
 React!: "[[FireFox Starting Page - drawing]]"
-backgound img: 
-feature:
+backgound img:
 ---
 
 - C_T | Clock
@@ -13,10 +12,7 @@ feature:
 - L_C | webpage Shortcut
 
 
-
-React!
-[[FireFox Starting Page - drawing]]
-like this page
-
-
-background img
+Feature
+- glass like ui
+- warm tone
+- 
