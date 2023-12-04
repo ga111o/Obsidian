@@ -5,7 +5,10 @@ feature:
 ---
 
 Feature
-- R-T | 
+- C_T | Clock
+- R_T | Profile IMG
+	- name input
+	- background img
 
 React!
 [[FireFox Starting Page - drawing]]
