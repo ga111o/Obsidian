@@ -1,8 +1,11 @@
 ---
 React!: "[[FireFox Starting Page - drawing]]"
 backgound img: 
-feature: React
+feature:
 ---
+
+Feature
+- R-T | 
 
 React!
 [[FireFox Starting Page - drawing]]
