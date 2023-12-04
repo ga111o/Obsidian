@@ -11,8 +11,12 @@
             "id": "c931abdc8f34cdcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Area/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Area/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Area/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "2. Area/무제 파일.md"
               }
             }
           }
@@ -141,13 +147,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "934d7ecd53af9e1e",
+  "active": "c931abdc8f34cdcd",
   "lastOpenFiles": [
+    "3. Resource/Drawing 2023-12-04 14.58.48.excalidraw.md",
+    "2. Area/무제 파일.md",
+    "무제 파일.md",
     "4. Archives",
     "3. Resource",
     "2. Area",
     "1. Project",
-    "무제 파일.md",
     "Todo list.md",
     "this is obsidian.md",
     "옵시디언 사용 방법.md"

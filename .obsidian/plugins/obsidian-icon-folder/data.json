@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "RiRulerLine",
+      "RiFolderFill",
+      "RiCrosshairFill",
+      "RiDatabase2Line",
+      "RiArchiveDrawerFill"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -19,5 +25,9 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
-  }
+  },
+  "2. Area": "RiRulerLine",
+  "4. Archives": "RiDatabase2Line",
+  "1. Project": "RiCrosshairFill",
+  "3. Resource": "RiFolderLine"
 }
