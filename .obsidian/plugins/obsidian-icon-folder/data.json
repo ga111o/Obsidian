@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiReactjsFill",
+      "RiReactjsLine",
+      "RiEnglishInput",
       "RiRulerLine",
-      "RiFolderFill",
-      "RiCrosshairFill",
-      "RiDatabase2Line",
-      "RiArchiveDrawerFill"
+      "RiFolderFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,5 +29,8 @@
   "2. Area": "RiRulerLine",
   "4. Archives": "RiDatabase2Line",
   "1. Project": "RiCrosshairFill",
-  "3. Resource": "RiFolderLine"
+  "3. Resource": "RiFolderLine",
+  "2. Area/Study English.md": "RiEnglishInput",
+  "1. Project/FireFox Starting Page.md": "RiReactjsFill",
+  "1. Project/FireFox Starting Page - drawing.md": "RiReactjsFill"
 }
