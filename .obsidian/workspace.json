@@ -52,9 +52,19 @@
                 "file": "1. Project/FireFox Starting Page/1. Project/Drawing 2023-12-05 12.29.30.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "eb29cfc4cdd34e37",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1. Project/FireFox Starting Page/1. Project/Drawing 2023-12-05 12.29.30.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,10 +200,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1aebc05d1d4d776",
+  "active": "eb29cfc4cdd34e37",
   "lastOpenFiles": [
-    "1. Project/FireFox Starting Page/1. Project/Title.md",
     "1. Project/FireFox Starting Page/1. Project/Drawing 2023-12-05 12.29.30.excalidraw.md",
+    "1. Project/FireFox Starting Page/1. Project/Title.md",
     "1. Project/FireFox Starting Page/2. Area/Todo.md",
     "1. Project/FireFox Starting Page/2. Area/MainPage.md",
     "1. Project/FireFox Starting Page/0. Total/FireFox Starting Page.md",
