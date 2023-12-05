@@ -1,6 +1,7 @@
 ---
 React!: "[[FireFox Starting Page - drawing]]"
 git: https://github.com/ga111o/FireFox-StartPage
+page: https://ga111o.github.io/FireFox-StartPage/
 ---
 
 - C_T | Clock
