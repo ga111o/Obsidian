@@ -1,11 +1,11 @@
 box shape
-border radius (maybe 10px)
+border radius
 
-
-
+blur effect
+transelucent effect
 
 
 func
-- add shortcut 
-- delete shortcut
-	- use local storage
+- use local storage
+	- add shortcut 
+	- delete shortcut
