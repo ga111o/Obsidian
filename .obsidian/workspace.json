@@ -29,11 +29,9 @@
             "id": "2a2f1efedcc5109c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1. Project/FireFox Starting Page/1. Project/ShortCut.md",
-                "mode": "source",
-                "source": false
+                "file": "1. Project/FireFox Starting Page/1. Project/Title -draw.md"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/FireFox Starting Page/1. Project/ShortCut.md",
+                "file": "1. Project/FireFox Starting Page/1. Project/Title -draw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/FireFox Starting Page/1. Project/ShortCut.md",
+                "file": "1. Project/FireFox Starting Page/1. Project/Title -draw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/FireFox Starting Page/1. Project/ShortCut.md"
+                "file": "1. Project/FireFox Starting Page/1. Project/Title -draw.md"
               }
             }
           },
