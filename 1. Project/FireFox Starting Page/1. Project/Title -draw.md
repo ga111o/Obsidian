@@ -19,7 +19,7 @@ translucent ^OQ2UEmIc
 
 year.month.day ^NrR76WFZ
 
-no js
+no js?
 more optimazition ^3us3we8W
 
 %%
@@ -309,10 +309,10 @@ more optimazition ^3us3we8W
 		{
 			"id": "3us3we8W",
 			"type": "text",
-			"x": -11.009485880533816,
-			"y": 14.074729556129114,
-			"width": 167.81982421875,
-			"height": 50,
+			"x": -295.9618203299385,
+			"y": -27.06808108375185,
+			"width": 216.5716094970703,
+			"height": 64.53900310146075,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -325,22 +325,22 @@ more optimazition ^3us3we8W
 			"frameId": null,
 			"roundness": null,
 			"seed": 161664138,
-			"version": 38,
-			"versionNonce": 504418378,
+			"version": 115,
+			"versionNonce": 1361426378,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701747183712,
+			"updated": 1701747213453,
 			"link": null,
 			"locked": false,
-			"text": "no js\nmore optimazition",
-			"rawText": "no js\nmore optimazition",
-			"fontSize": 20,
+			"text": "no js?\nmore optimazition",
+			"rawText": "no js?\nmore optimazition",
+			"fontSize": 25.8156012405843,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 43,
+			"baseline": 55,
 			"containerId": null,
-			"originalText": "no js\nmore optimazition",
+			"originalText": "no js?\nmore optimazition",
 			"lineHeight": 1.25
 		}
 	],
