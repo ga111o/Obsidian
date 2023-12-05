@@ -19,6 +19,9 @@ translucent ^OQ2UEmIc
 
 year.month.day ^NrR76WFZ
 
+no js
+more optimazition ^3us3we8W
+
 %%
 # Drawing
 ```json
@@ -267,12 +270,49 @@ year.month.day ^NrR76WFZ
 			"baseline": 43
 		},
 		{
-			"id": "NrR76WFZ",
 			"type": "text",
+			"version": 68,
+			"versionNonce": 416933206,
+			"isDeleted": false,
+			"id": "NrR76WFZ",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": -85.67617579868858,
 			"y": -144.78241620744978,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 141.5798797607422,
 			"height": 25,
+			"seed": 1724269334,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1701747101915,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "year.month.day",
+			"rawText": "year.month.day",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "year.month.day",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"id": "3us3we8W",
+			"type": "text",
+			"x": -11.009485880533816,
+			"y": 14.074729556129114,
+			"width": 167.81982421875,
+			"height": 50,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -284,23 +324,23 @@ year.month.day ^NrR76WFZ
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1724269334,
-			"version": 68,
-			"versionNonce": 416933206,
+			"seed": 161664138,
+			"version": 38,
+			"versionNonce": 504418378,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1701747101915,
+			"updated": 1701747183712,
 			"link": null,
 			"locked": false,
-			"text": "year.month.day",
-			"rawText": "year.month.day",
+			"text": "no js\nmore optimazition",
+			"rawText": "no js\nmore optimazition",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
+			"baseline": 43,
 			"containerId": null,
-			"originalText": "year.month.day",
+			"originalText": "no js\nmore optimazition",
 			"lineHeight": 1.25
 		}
 	],
@@ -320,7 +360,7 @@ year.month.day ^NrR76WFZ
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 423.0095207577659,
-		"scrollY": 516.6276688348679,
+		"scrollY": 530.722909836542,
 		"zoom": {
 			"value": 1.05
 		},
