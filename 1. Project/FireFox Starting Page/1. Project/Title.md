@@ -1,2 +1,3 @@
-Welcome!
-00:00:00
+Welcome {name}!
+{HOUR}:{MIN}:{SEC}
+{YEAR}.{MONTH}.{DAY}

@@ -4,6 +4,22 @@
     "type": "split",
     "children": [
       {
+        "id": "ac822ba4615c51fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb29cfc4cdd34e37",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1. Project/FireFox Starting Page/1. Project/Title -draw.md"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "9532b3c9f348d3b8",
         "type": "tabs",
         "children": [
@@ -52,19 +68,9 @@
                 "file": "1. Project/FireFox Starting Page/1. Project/Title -draw.md"
               }
             }
-          },
-          {
-            "id": "eb29cfc4cdd34e37",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1. Project/FireFox Starting Page/1. Project/Title -draw.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/FireFox Starting Page/1. Project/Title -draw.md",
+                "file": "1. Project/FireFox Starting Page/1. Project/Title.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/FireFox Starting Page/1. Project/Title -draw.md",
+                "file": "1. Project/FireFox Starting Page/1. Project/Title.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/FireFox Starting Page/1. Project/Title -draw.md"
+                "file": "1. Project/FireFox Starting Page/1. Project/Title.md"
               }
             }
           },
@@ -200,12 +206,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb29cfc4cdd34e37",
+  "active": "2d98cf2e114b5515",
   "lastOpenFiles": [
-    "1. Project/FireFox Starting Page/0. Total/FireFox Starting Page - drawing.md",
-    "1. Project/FireFox Starting Page/0. Total/FireFox Starting Page.md",
     "1. Project/FireFox Starting Page/1. Project/Title -draw.md",
     "1. Project/FireFox Starting Page/1. Project/Title.md",
+    "1. Project/FireFox Starting Page/0. Total/FireFox Starting Page.md",
+    "1. Project/FireFox Starting Page/0. Total/FireFox Starting Page - drawing.md",
     "1. Project/FireFox Starting Page/2. Area/Todo.md",
     "1. Project/FireFox Starting Page/2. Area/MainPage.md",
     "1. Project/FireFox Starting Page/0. Total",
