@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiCheckDoubleLine",
       "RiReactjsFill",
       "RiReactjsLine",
       "RiEnglishInput",
-      "RiRulerLine",
-      "RiFolderFill"
+      "RiRulerLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,5 +32,6 @@
   "3. Resource": "RiFolderLine",
   "2. Area/Study English.md": "RiEnglishInput",
   "1. Project/FireFox Starting Page/0. Total/FireFox Starting Page - drawing.md": "RiReactjsFill",
-  "1. Project/FireFox Starting Page/0. Total/FireFox Starting Page.md": "RiReactjsFill"
+  "1. Project/FireFox Starting Page/0. Total/FireFox Starting Page.md": "RiReactjsFill",
+  "1. Project/FireFox Starting Page/2. Area/Todo.md": "RiCheckDoubleLine"
 }
