@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiQuestionMark",
+      "RiCrosshair2Line",
       "RiCheckDoubleLine",
       "RiReactjsFill",
-      "RiReactjsLine",
-      "RiEnglishInput",
-      "RiRulerLine"
+      "RiReactjsLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,12 +26,14 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "2. Area": "RiRulerLine",
-  "4. Archives": "RiDatabase2Line",
-  "1. Project": "RiCrosshairFill",
-  "3. Resource": "RiFolderLine",
-  "2. Area/Study English.md": "RiEnglishInput",
-  "2. Area/FireFox Starting Page/0. Total/FireFox Starting Page - drawing.md": "RiReactjsFill",
-  "2. Area/FireFox Starting Page/0. Total/FireFox Starting Page.md": "RiReactjsFill",
-  "2. Area/FireFox Starting Page/2. Area/Todo.md": "RiCheckDoubleLine"
+  "개인/민혁/1. Project": "RiCrosshairFill",
+  "개인/민혁/2. Area": "RiRulerLine",
+  "개인/민혁/2. Area/Study English.md": "RiEnglishInput",
+  "개인/민혁/2. Area/FireFox Starting Page/0. Total/FireFox Starting Page.md": "RiReactjsFill",
+  "개인/민혁/2. Area/FireFox Starting Page/0. Total/FireFox Starting Page - drawing.md": "RiReactjsFill",
+  "개인/민혁/2. Area/FireFox Starting Page/2. Area/Todo.md": "RiCheckDoubleLine",
+  "개인/민혁/3. Resource": "RiFolderLine",
+  "개인/민혁/4. Archives": "RiDatabase2Line",
+  "공용/1. Project/Project 폴더.md": "RiQuestionMark",
+  "공용/1. Project": "RiCrosshair2Line"
 }
