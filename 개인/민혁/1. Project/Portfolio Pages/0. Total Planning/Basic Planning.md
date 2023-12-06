@@ -1,6 +1,6 @@
 1. **프레임워크**
-    - **Front-End:** React.js
-    - **Back-End?:** Next.js (`노마드코더 Next.js`강의로 기반 닦고 시작)
+    - **Front-End:** React.js, Next.js
+    - **Back-End:** Flask
 
 2. **UI/UX 디자인:**
     - **툴:** Figma 사용하여 디자인 계획
