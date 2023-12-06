@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Idea/Portfolio Pages.md",
+                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Features.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Idea/Portfolio Pages.md",
+                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Idea/Portfolio Pages.md",
+                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Idea/Portfolio Pages.md",
+                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Idea/Portfolio Pages.md"
+                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md"
               }
             }
           },
@@ -192,12 +192,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "934d7ecd53af9e1e",
+  "active": "b15eaf1a0e86da82",
   "lastOpenFiles": [
+    "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Features.md",
+    "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Drawing 2023-12-06 14.52.38.excalidraw.md",
+    "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
     "개인/민혁/4. Archives/FireFox Starting Page/0. Total/FireFox Starting Page.md",
     "개인/민혁/4. Archives/FireFox Starting Page/0. Total/FireFox Starting Page - drawing.md",
-    "개인/민혁/1. Project/Portfolio Pages/0. Total Idea/Portfolio Pages.md",
-    "개인/민혁/1. Project/Portfolio Pages/0. Total Idea",
+    "개인/민혁/1. Project/Portfolio Pages/0. Total Planning",
     "공용/1. Project/this is project!.md",
     "개인/민혁/1. Project/this is min's file!.md",
     "공용/폴더 사용 방법.md",
@@ -227,8 +229,6 @@
     "개인/준표/1. Project",
     "개인/민/민.md",
     "개인/준표/준표.md",
-    "개인/서준/서준.md",
-    "공용/3. Archives/this is Archives!.md",
-    "공용/2. Resource/this is Resource!.md"
+    "개인/서준/서준.md"
   ]
 }

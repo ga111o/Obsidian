@@ -10,4 +10,3 @@ https://www.yerim-e.com/
 - first view page
 	- full screen img(my photo)
 	- at bottom, 'scroll down' mark
-

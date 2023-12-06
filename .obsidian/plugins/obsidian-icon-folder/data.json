@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiStarSLine",
+      "RiMarkPenLine",
       "RiFolderLine",
       "RiDatabase2Line",
-      "RiRulerLine",
-      "RiQuestionMark",
-      "RiCrosshair2Line"
+      "RiRulerLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,7 @@
   "공용/폴더 사용 방법.md": "RiQuestionMark",
   "개인/민혁/4. Archives/FireFox Starting Page/0. Total/FireFox Starting Page.md": "RiReactjsFill",
   "개인/민혁/4. Archives/FireFox Starting Page/0. Total/FireFox Starting Page - drawing.md": "RiReactjsFill",
-  "개인/민혁/4. Archives/FireFox Starting Page/2. Area/Todo.md": "RiCheckDoubleLine"
+  "개인/민혁/4. Archives/FireFox Starting Page/2. Area/Todo.md": "RiCheckDoubleLine",
+  "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md": "RiMarkPenLine",
+  "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Features.md": "RiStarSLine"
 }
