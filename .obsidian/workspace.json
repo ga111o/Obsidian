@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/무제 파일.md",
+                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Idea/Portfolio Pages.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공용/폴더 구조.md",
+                "file": "공용/폴더 사용 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공용/폴더 구조.md",
+                "file": "공용/폴더 사용 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공용/폴더 구조.md",
+                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Idea/Portfolio Pages.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공용/폴더 구조.md",
+                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Idea/Portfolio Pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공용/폴더 구조.md",
+                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Idea/Portfolio Pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공용/폴더 구조.md"
+                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Idea/Portfolio Pages.md"
               }
             }
           },
@@ -192,42 +192,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b15eaf1a0e86da82",
+  "active": "934d7ecd53af9e1e",
   "lastOpenFiles": [
+    "개인/민혁/4. Archives/FireFox Starting Page/0. Total/FireFox Starting Page.md",
+    "개인/민혁/4. Archives/FireFox Starting Page/0. Total/FireFox Starting Page - drawing.md",
+    "개인/민혁/1. Project/Portfolio Pages/0. Total Idea/Portfolio Pages.md",
+    "개인/민혁/1. Project/Portfolio Pages/0. Total Idea",
+    "공용/1. Project/this is project!.md",
+    "개인/민혁/1. Project/this is min's file!.md",
+    "공용/폴더 사용 방법.md",
+    "개인/서준/폴더 사용 방법.md",
+    "개인/준표/폴더 사용 방법.md",
+    "개인/민/폴더 사용 방법.md",
+    "개인/민/3. Archives/this is Archives!.md",
+    "개인/민/3. Archives/Drawing 2023-12-06 13.56.11.excalidraw.md",
+    "개인/민/3. Archives",
+    "개인/민/2. Resource/this is Resource!.md",
+    "개인/민/2. Resource",
+    "개인/민/1. Project/this is project!.md",
+    "개인/민/1. Project",
+    "개인/서준/3. Archives/this is Archives!.md",
+    "개인/서준/3. Archives/Drawing 2023-12-06 13.56.11.excalidraw.md",
+    "개인/서준/3. Archives",
+    "개인/서준/2. Resource/this is Resource!.md",
+    "개인/서준/2. Resource",
+    "개인/서준/1. Project/this is project!.md",
+    "개인/서준/1. Project",
+    "개인/준표/3. Archives/this is Archives!.md",
+    "개인/준표/3. Archives/Drawing 2023-12-06 13.56.11.excalidraw.md",
+    "개인/준표/3. Archives",
+    "개인/준표/2. Resource/this is Resource!.md",
+    "개인/준표/2. Resource",
+    "개인/준표/1. Project/this is project!.md",
+    "개인/준표/1. Project",
     "개인/민/민.md",
     "개인/준표/준표.md",
     "개인/서준/서준.md",
     "공용/3. Archives/this is Archives!.md",
-    "공용/2. Resource/this is Resource!.md",
-    "공용/1. Project/this is project!.md",
-    "공용/3. Archives/Drawing 2023-12-06 13.56.11.excalidraw.md",
-    "공용/폴더 구조.md",
-    "공용/3. Archives",
-    "공용/1. Project/Drawing 2023-12-06 13.53.44.excalidraw.md",
-    "공용/1. Project/Drawing 2023-12-06 13.53.26.excalidraw.md",
-    "공용/2. Resource",
-    "공용/1. Project/무제 폴더",
-    "개인/서준",
-    "개인/준표",
-    "개인/민",
-    "개인/민혁/1. Project/Portfolio Pages/무제 파일.md",
-    "공용/1. Project",
-    "개인/민혁",
-    "개인",
-    "공용",
-    "개인/민혁/1. Project/this is min's file!.md",
-    "개인/민혁/2. Area/FireFox Starting Page/0. Total/FireFox Starting Page.md",
-    "개인/민혁/2. Area/FireFox Starting Page/1. Project/ShortCut.md",
-    "개인/민혁/2. Area/FireFox Starting Page/0. Total/FireFox Starting Page - drawing.md",
-    "개인/민혁/2. Area/FireFox Starting Page/1. Project/Drawing 2023-12-05 14.56.32.excalidraw.md",
-    "개인/민혁/2. Area/FireFox Starting Page/2. Area/Title.md",
-    "개인/민혁/2. Area/FireFox Starting Page/2. Area/Title -draw.md",
-    "개인/민혁/2. Area/FireFox Starting Page/2. Area/Todo.md",
-    "개인/민혁/2. Area/FireFox Starting Page/2. Area/MainPage.md",
-    "개인/민혁/2. Area/Study English.md",
-    "3. Resource/Drawing 2023-12-04 14.58.48.excalidraw.md",
-    "Todo list.md",
-    "this is obsidian.md",
-    "옵시디언 사용 방법.md"
+    "공용/2. Resource/this is Resource!.md"
   ]
 }

@@ -29,13 +29,13 @@
   "개인/민혁/1. Project": "RiCrosshairFill",
   "개인/민혁/2. Area": "RiRulerLine",
   "개인/민혁/2. Area/Study English.md": "RiEnglishInput",
-  "개인/민혁/2. Area/FireFox Starting Page/0. Total/FireFox Starting Page.md": "RiReactjsFill",
-  "개인/민혁/2. Area/FireFox Starting Page/0. Total/FireFox Starting Page - drawing.md": "RiReactjsFill",
-  "개인/민혁/2. Area/FireFox Starting Page/2. Area/Todo.md": "RiCheckDoubleLine",
   "개인/민혁/3. Resource": "RiFolderLine",
   "개인/민혁/4. Archives": "RiDatabase2Line",
   "공용/1. Project": "RiCrosshair2Line",
   "공용/2. Resource": "RiFolderLine",
   "공용/3. Archives": "RiDatabase2Line",
-  "공용/폴더 구조.md": "RiQuestionMark"
+  "공용/폴더 사용 방법.md": "RiQuestionMark",
+  "개인/민혁/4. Archives/FireFox Starting Page/0. Total/FireFox Starting Page.md": "RiReactjsFill",
+  "개인/민혁/4. Archives/FireFox Starting Page/0. Total/FireFox Starting Page - drawing.md": "RiReactjsFill",
+  "개인/민혁/4. Archives/FireFox Starting Page/2. Area/Todo.md": "RiCheckDoubleLine"
 }
