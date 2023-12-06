@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/FireFox Starting Page/0. Total/FireFox Starting Page.md",
+                "file": "1. Project/Portfolio Pages/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/FireFox Starting Page/0. Total/FireFox Starting Page.md",
+                "file": "1. Project/Portfolio Pages/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/FireFox Starting Page/0. Total/FireFox Starting Page.md",
+                "file": "1. Project/Portfolio Pages/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/FireFox Starting Page/0. Total/FireFox Starting Page.md"
+                "file": "1. Project/Portfolio Pages/무제 파일.md"
               }
             }
           },
@@ -155,11 +155,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "934d7ecd53af9e1e",
+  "active": "8a5743e02d4d20ca",
   "lastOpenFiles": [
-    "1. Project/무제 폴더",
-    "2. Area/FireFox Starting Page/1. Project/ShortCut.md",
     "2. Area/FireFox Starting Page/0. Total/FireFox Starting Page.md",
+    "1. Project/Portfolio Pages/무제 파일.md",
+    "1. Project/Portfolio Pages",
+    "2. Area/FireFox Starting Page/1. Project/ShortCut.md",
     "2. Area/FireFox Starting Page/0. Total/FireFox Starting Page - drawing.md",
     "2. Area/FireFox Starting Page/1. Project/Drawing 2023-12-05 14.56.32.excalidraw.md",
     "2. Area/FireFox Starting Page/2. Area/Title.md",
