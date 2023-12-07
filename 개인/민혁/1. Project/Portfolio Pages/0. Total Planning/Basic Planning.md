@@ -1,6 +1,5 @@
 1. **프레임워크**
     - **Front-End:** React.js, Next.js
-    - **Back-End:** Flask
 
 2. **UI/UX 디자인:**
     - **툴:** Figma 사용하여 디자인 계획
