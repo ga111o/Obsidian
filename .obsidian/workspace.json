@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
+                "file": "개인/민혁/git test 12.10.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
+                "file": "개인/민혁/git test 12.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
+                "file": "개인/민혁/git test 12.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md"
+                "file": "개인/민혁/git test 12.10.md"
               }
             }
           },
@@ -194,9 +194,10 @@
   },
   "active": "b15eaf1a0e86da82",
   "lastOpenFiles": [
+    "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
+    "개인/민혁/git test 12.10.md",
     "개인/민혁/2. Area/chatBot (practice React.js, Next.js, Django)/점프 투 장고.md",
     "개인/민혁/2. Area/chatBot (practice React.js, Next.js, Django)/진행.md",
-    "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
     "개인/민혁/2. Area/chatBot (practice React.js, Next.js, Django)",
     "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Features.md",
     "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Drawing 2023-12-06 14.52.38.excalidraw.md",
@@ -228,7 +229,6 @@
     "개인/준표/3. Archives",
     "개인/준표/2. Resource/this is Resource!.md",
     "개인/준표/2. Resource",
-    "개인/준표/1. Project/this is project!.md",
-    "개인/민/민.md"
+    "개인/준표/1. Project/this is project!.md"
   ]
 }
