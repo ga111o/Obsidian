@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
+                "file": "개인/민혁/1. Project/NomadCoder Full Stack GPT/0. Total Planning/Goals.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
+                "file": "개인/민혁/1. Project/NomadCoder Full Stack GPT/0. Total Planning/Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
+                "file": "개인/민혁/1. Project/NomadCoder Full Stack GPT/0. Total Planning/Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md"
+                "file": "개인/민혁/1. Project/NomadCoder Full Stack GPT/0. Total Planning/Goals.md"
               }
             }
           },
@@ -192,11 +192,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "934d7ecd53af9e1e",
+  "active": "b15eaf1a0e86da82",
   "lastOpenFiles": [
-    "개인/민혁/1. Project/Untitled",
-    "개인/민혁/git test 12.10 part2.md",
+    "개인/민혁/1. Project/NomadCoder Full Stack GPT/0. Total Planning/Full Stack GPT.md",
+    "개인/민혁/1. Project/NomadCoder Full Stack GPT/0. Total Planning/Goals.md",
+    "개인/민혁/1. Project/NomadCoder Full Stack GPT/0. Total Planning",
     "개인/민혁/1. Project/Portfolio Pages/0. Total Planning/Basic Planning.md",
+    "개인/민혁/1. Project/NomadCoder Full Stack GPT",
+    "개인/민혁/git test 12.10 part2.md",
     "개인/민혁/2. Area/chatBot (practice React.js, Next.js, Django)/점프 투 장고.md",
     "개인/민혁/2. Area/chatBot (practice React.js, Next.js, Django)/진행.md",
     "개인/민혁/2. Area/chatBot (practice React.js, Next.js, Django)",
@@ -226,9 +229,6 @@
     "개인/서준/1. Project/this is project!.md",
     "개인/서준/1. Project",
     "개인/준표/3. Archives/this is Archives!.md",
-    "개인/준표/3. Archives/Drawing 2023-12-06 13.56.11.excalidraw.md",
-    "개인/준표/3. Archives",
-    "개인/준표/2. Resource/this is Resource!.md",
-    "개인/준표/2. Resource"
+    "개인/준표/3. Archives/Drawing 2023-12-06 13.56.11.excalidraw.md"
   ]
 }
