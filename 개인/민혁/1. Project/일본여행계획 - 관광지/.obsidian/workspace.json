@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도본토리.md",
+                "file": "유니버셜 스튜디오.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도본토리.md",
+                "file": "유니버셜 스튜디오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도본토리.md",
+                "file": "유니버셜 스튜디오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도본토리.md"
+                "file": "유니버셜 스튜디오.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "7ad5e630d99e8db6",
   "lastOpenFiles": [
+    "오사카성.md",
     "유니버셜 스튜디오.md",
-    "도본토리.md",
-    "오사카성.md"
+    "도본토리.md"
   ]
 }
