@@ -11,8 +11,12 @@
             "id": "83e3d1d8485a3554",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. Archives/한국장학재단 장학금 신청/한국장학재단 장학금 신청.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. Archives/한국장학재단 장학금 신청/한국장학재단 장학금 신청.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. Archives/한국장학재단 장학금 신청/한국장학재단 장학금 신청.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4. Archives/한국장학재단 장학금 신청/한국장학재단 장학금 신청.md"
+              }
             }
           }
         ]
@@ -140,6 +148,19 @@
   },
   "active": "83e3d1d8485a3554",
   "lastOpenFiles": [
+    "4. Archives/한국장학재단 장학금 신청/Pasted image 20231212123633.png",
+    "4. Archives/한국장학재단 장학금 신청/한국장학재단 장학금 신청.md",
+    "4. Archives/한국장학재단 장학금 신청/Screenshot_20231212_125203.png",
+    "4. Archives/한국장학재단 장학금 신청",
+    "4. Archives/한국장학재단 장학금 신청/Screenshot_20231212_124851.png",
+    "4. Archives/한국장학재단 장학금 신청/Screenshot_20231212_124838 1.png",
+    "4. Archives/한국장학재단 장학금 신청/Screenshot_20231212_124838.png",
+    "4. Archives/한국장학재단 장학금 신청/Pasted image 20231212124355.png",
+    "4. Archives/한국장학재단 장학금 신청/Pasted image 20231212124241.png",
+    "4. Archives/한국장학재단 장학금 신청/Pasted image 20231212124102.png",
+    "4. Archives/한국장학재단 장학금 신청/Pasted image 20231212123835.png",
+    "4. Archives/한국장학재단 장학금 신청/Pasted image 20231212123753.png",
+    "4. Archives/한국장학재단 장학금 신청/Pasted image 20231212123714.png",
     "1. Project/일본여행계획 - 관광지/오사카성.md",
     "1. Project/E.A.R/wsl-ubuntu-vim.md",
     "1. Project/E.A.R/ubuntu - package configuration configuring secure boot.md",
