@@ -13,6 +13,12 @@ chain2.invoke({
 })
 ```
 
+```
+all = chain1 | chain2 | outPutParser()
+```
+
+input chain1's output at chain2
+
 **chain** is composed `Template`,`Language Model`, `Output Parser`
 
 internally, langchain call `format_messages()`, tehn call `chat.predict()`, then call `parseFunc()`
