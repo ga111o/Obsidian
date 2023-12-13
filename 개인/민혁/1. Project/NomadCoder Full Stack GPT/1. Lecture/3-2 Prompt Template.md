@@ -86,6 +86,8 @@ prompt = template.format_messages(ai_name = "ga111o", hardware1 = "cpu", hardwar
 chat.predict_messages(prompt)
 ```
 
+return `AIMessage(content='\nCPU (Central Processing Unit) 및 GPU (Graphics Processing Unit)는 컴퓨터의 ... SKIP ... 프로세스러입니다.')`
+
 <br>
 <hr>
 <br>
