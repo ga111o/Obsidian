@@ -10,4 +10,6 @@ function lazygit() {
 lazygit "My commit msg"
 ```
 
+type this at git terminal
+
 [link](https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one)
