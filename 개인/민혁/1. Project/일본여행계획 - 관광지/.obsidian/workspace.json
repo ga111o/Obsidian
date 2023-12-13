@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "오사카성.md",
+                "file": "Osaka Castle.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유니버셜 스튜디오.md",
+                "file": "Universal Studio.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도본토리.md",
+                "file": "Dotonbori.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc5509ea49effdaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Osaka Castle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도본토리.md",
+                "file": "Osaka Castle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도본토리.md",
+                "file": "Osaka Castle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도본토리.md"
+                "file": "Osaka Castle.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ad5e630d99e8db6",
+  "active": "bc5509ea49effdaf",
   "lastOpenFiles": [
-    "오사카성.md",
-    "유니버셜 스튜디오.md",
-    "도본토리.md"
+    "Maid Cafe S2.md",
+    "Dotonbori.md",
+    "Universal Studio.md",
+    "Osaka Castle.md"
   ]
 }
