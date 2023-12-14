@@ -1,5 +1,10 @@
+## Lazy git
+
+git add, commit, push<br>
+-> just one line
+
 ```
-function lazygit() {
+function lgit() {
     git add .
     git commit -a -m "$1"
     git push
