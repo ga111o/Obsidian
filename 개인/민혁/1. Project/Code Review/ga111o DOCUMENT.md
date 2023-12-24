@@ -88,5 +88,12 @@ def embed_file(file):
     return retriever
 ```
 
-`embed_file`:
-The embed_file function is decorated with @st.cache, allowing the caching of embedding file operations. This can greatly increase performance for repeated file uploads of the same file.
+`embed_file`: allowing the caching of embedding file operations.
+
+-   `@st.cache`: decorate emved_file func
+
+1. get file and save at the path
+2. split file content and save embeddings path
+    - using FAISS(vectorstore), vectorization content.
+3. use `as_retriever()`
+    - langchain's basic func.
