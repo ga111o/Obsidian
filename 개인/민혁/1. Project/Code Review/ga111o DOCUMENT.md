@@ -49,7 +49,7 @@ class ChatCallbackHandler(BaseCallbackHandler):
 <hr>
 <br>
 
-```
+```python
 ollama = ChatOllama(
     model = "llama2:7b",
     temperature=0.1,
@@ -97,3 +97,53 @@ def embed_file(file):
     - using FAISS(vectorstore), vectorization content.
 3. use `as_retriever()`
     - langchain's basic func.
+
+<br>
+<hr>
+<br>
+
+```python
+def save_message(message, role):
+    st.session_state["messages"].append({"message": message, "role": role})
+
+def send_message(message, role, save=True):
+    with st.chat_message(role):
+        st.markdown(message)
+    if save:
+        st.session_state["messages"].append({"messages": message, "role":role})
+
+def paint_history():
+    for message in st.session_state["messages"]:
+        send_message(message["messages"], message["role"], save=False)
+```
+
+`st.session_state` is dict.<br>
+use as a vatiable
+
+<br>
+<hr>
+<br>
+
+```python
+if file:
+    retriever = embed_file(file)
+    send_message("READY!", "ai", save=False)
+    paint_history()
+    message = st.chat_input("")
+    if message:
+        send_message(message, "human")
+        chain = (
+            {
+                "context": retriever | RunnableLambda(format_docs),
+                "question": RunnablePassthrough(),
+            }
+            | template
+            | ollama
+        )
+        with st.chat_message("ai"):
+            response = chain.invoke(message)
+else:
+    st.session_state["messages"]=[]
+```
+
+handling file embedding and message exchange.
