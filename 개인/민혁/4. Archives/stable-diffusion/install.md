@@ -26,3 +26,7 @@ git clone
     #if no gpu(cuda)
     ./webui.sh --xformers --skip-torch-cuda-test
     ```
+
+---
+
+recommend work on windows
