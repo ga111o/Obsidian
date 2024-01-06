@@ -1,0 +1,14 @@
+```
+sudo powermetrics | grep "Intel energy model derived package power"
+```
+
+output:
+
+```
+Intel energy model derived package power (CPUs+GT+SA): 18.05W
+Intel energy model derived package power (CPUs+GT+SA): 18.26W
+Intel energy model derived package power (CPUs+GT+SA): 17.60W
+Intel energy model derived package power (CPUs+GT+SA): 16.69W
+Intel energy model derived package power (CPUs+GT+SA): 16.99W
+Intel energy model derived package power (CPUs+GT+SA): 17.72W
+```
